@@ -1,0 +1,329 @@
+* {
+	font-family: Arimo, 'iberation Sans','Helvetica Neue', Helvetica,Arial,sans-serif;
+}
+.nevigationBar {
+	width: 13%;
+	font-weight: bold;
+	background-color: rgb(247,247,247);
+	font-family: sans-serif;
+	margin-left: -8px;
+	margin-top: -8px;
+	float: left;
+	height: 2725px;
+}
+.nevigationBar p {
+	width: 65%;
+	margin: 0 auto;
+}
+.nevigationBar a img {
+	width: 90%;
+}
+.special span {
+	color: blue;
+	font-weight: bold;
+}
+.encouragement {
+	font-size: 8px;
+	text-align: center;
+}
+.logIn {
+	background-color: rgb(255,255,255);
+	text-align: right;
+}
+#right .choice ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#right .choice ul li {
+	display: inline;
+	position: relative;
+}
+#right .choice ul li a {
+	color: #000;
+	margin:10px 5px 10px 5px;
+}
+
+#right .choice ul li ul li {
+	float:none; 
+	border-left:none; 
+	margin-top:2px; 
+	background-color:#FFF;
+	color: #000;
+}
+#right .choice ul li ul {
+	width:65px; 
+	position:absolute;
+	left: 0px;
+	top: 20px; 
+	display: none;
+}
+#right .choice ul li ul li a:hover {
+	background-color: blue;
+	color: #FFF;
+}
+#right .choice .navbottom {
+	position: relative;
+	float: bottom;
+	top: 20px;
+}
+#right .choice .navright {
+	position: relative;
+	float: right;
+}
+/* .choice {
+	background-color: rgb(247,247,247);
+	font-size: 45px;
+	padding-top: 0;
+}
+.choice a {
+	border-right: rgb(167,215,249) solid 1px;
+}
+.right {
+	position: relative;
+	float: right;
+} */
+div.ad {
+	border: rgb(167,215,249) solid 1px;
+}
+div.container2 {
+	float: left;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+div.container1 {
+	margin-top: 2%;
+	float: left;
+	width: 100%;
+	position: relative;
+	right: 47%;
+}
+.special {
+	font-family: sans-serif;
+	font-size: 14px;
+	margin: 25px 10px 25px 20px;
+	padding: 10px 0px 10px 0px;
+	float: left;
+	width: 61%;
+    position: relative;
+    left: 46.5%;
+    overflow: hidden;
+}
+.history2 {
+	font-family: sans-serif;
+	font-size: 14px;
+	float: left;
+	width: 36%;
+	position: relative;
+	left: 47.2%;
+}
+.history {
+	border: 1px solid #CCC;
+	box-shadow: 1px 1px 1px 1px #CCC;
+	padding: 20px 20px 20px 20px;
+	margin-top: 25px;
+}
+.history div {
+	text-align: center;
+}
+.history div input {
+	text-align: center;
+	width: 50%;
+	height: 25%;
+	padding: 10px 5px 10px 5px;
+	font-size: 14px;
+	background-color: rgb(52,123,255);
+	color: white;
+}
+.tips {
+	padding: 20px 20px 20px 20px;
+	margin-top: 20px;
+}
+.othArea {
+	background: rgb(247,247,247);
+	display: inline-block;
+	width: 90%;
+	margin-left: 35px;
+	padding:30px 35px 30px 35px;
+	font-size: 13px;
+	box-shadow: 1px 1px 1px 1px #CCC;
+}
+.purpleBlock3 {
+    float:left;
+    width:35%;
+}
+.purpleBlock2 {
+    float:left;
+    width:100%;
+ }
+.purpleBlock1 {
+    float:left;
+    width:100%;
+}
+.purpleBlock {
+    float:left;
+    width:30%;
+}
+.purpleBlockSpe {
+    float:left;
+    width:40%;
+    position: relative;
+    left: 60%;
+}
+.purpleBlockLast {
+    float:left;
+    width:30%;
+    position: relative;
+    left: 125%;
+}
+.ulClassSpecial {
+    float:left;
+    width:100%;
+    margin-left: 900px;
+    padding-bottom: 20px;
+}
+.ulClass {
+	float:left;
+    width:100%;
+    position:relative;
+    right:25%;
+}
+.ulSpecific {
+    float:left;
+    width:25%;
+}
+.ulSpecific ul {
+	list-style-type: none;
+}
+.noDecoration {
+	list-style-type: none;
+}
+.bulb {
+	float: right;
+	padding-left: 5px;
+}
+img.hrlogo {
+	position: relative;
+	float: left;
+	left: 50%;
+	bottom: 40px;
+}
+.icon {
+	width: 37px;
+	height:40px;
+	position: relative;
+	bottom: -20px;
+}
+.center {
+	text-align: center;
+}
+.footer {
+	font-size: 5px;
+	background-color: rgb(247,247,247);
+	width: 87%;
+	padding: 20px 0px 20px 8px;
+	position: relative;
+	float: left;
+}
+p.wiki {
+	font-size: 5px;
+	background-color: rgb(247,250,252);
+	position: relative;
+	float: left;
+	left: 20%;
+    top: 20px;
+}
+.bar {
+	position: relative;
+	float: right;
+	right: 15px;
+}
+.backcolor ul {
+
+}
+.backcolor ul li {
+	list-style-type: none;
+}
+.backcolor table {
+	position: relative;
+	float: right;
+	right: 40px;
+	bottom: 75px;
+}
+a.tool {
+	position: relative;
+	float: right;
+	bottom: 890px;
+	right: 4%;
+}
+a {
+	font-size: 5px;
+	color: rgb(0,70,165);
+	font-weight: 100;
+}
+a:link {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+img.gobal {
+	margin-bottom:-3px;
+	margin-left: -145px;
+}
+img.girl {
+	float:left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 200px;
+}
+input.control {
+	font-size: 5px;
+	float: right;
+	width: 150px;
+}
+.big {
+	font-size: 32px;
+}
+.middle {
+	font-size: 16px;
+}
+.bigger {
+	font-size: 14px;
+}
+#right {
+	float: left;
+	border-left: rgb(167,215,249) solid 1px;
+	border-bottom: rgb(167,215,249) solid 1px;
+	margin-top: -8px;
+	margin-right: -10px;
+	width: 86%;
+}
+.small {
+	font-size: 5px;
+}
+.backcolor {
+	background-color: rgb(247,250,252);
+}
+.clear {
+	clear: both;
+}
+/*
+  以下代码转载自Bootstrap(bootstrap/3.0.3/css/bootstrap.min.css)中的代码，
+  主要用于html代码:
+  <span class="caret"></span>
+  !!!转载请注明出处，谢谢！！！
+ */
+.caret {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 2px;
+  vertical-align: middle;
+  border-top: 4px dashed;
+  border-top: 4px solid \9;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+}
